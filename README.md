@@ -19,4 +19,5 @@ Le login par défaut est username: admin@gmail.com password:admin.
 
 ### Vue mobile
 
-# ![mbile](https://github.com/hanseroland/gestion-de-stock/blob/main/captures/localhost_gestion-de-stock_articles.php(iPhone 6_7_8 Plus).png)
+# ![mbile](https://github.com/hanseroland/gestion-de-stock/blob/main/captures/localhost_gestion-de-stock_articles.php(iPhone%206_7_8%20Plus).png)
+

@@ -30,7 +30,7 @@ function recolter()
       {
           var tab_info = transport.responseText.split('|');
                     //document.getElementById('id_produit').value = tab_info[0];
-					document.getElementById('nom_article').value = tab_info[0];
+		     document.getElementById('nom_article').value = tab_info[0];
                     document.getElementById('quantite').value = tab_info[1];
                     document.getElementById('quantite_aps').value = "";
                     document.getElementById('quantite_article').value = "";

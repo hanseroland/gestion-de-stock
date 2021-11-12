@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$username = "phpmyadmin";
-$password = "root";
+$username = "root";
+$password = "";
 $dbname = "gestion_de_stock";
 
 
